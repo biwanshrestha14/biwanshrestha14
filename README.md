@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img align="right" height="150" src="https://scontent.fktm21-1.fna.fbcdn.net/v/t39.30808-6/322711945_848573013062552_3872253244800579680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93A&_nc_eui2=AeGZz2D8PvUI1NVZEeiHWcqCfz_a63X3MkN_P9rrdfcyQzIMRxRxxmGyUMgerMyDHkWx4kRSN9e_XFKwUEYnfHTT&_nc_ohc=N4hg_kg1t0UQ7kNvgGefc5M&_nc_zt=23&_nc_ht=scontent.fktm21-1.fna&_nc_gid=AONhqg71b5RxCb5I0Srw1iS&oh=00_AYDImBU9nJb6zF69QdDAUT0CdjLGeP42w-QjJZ9BNENvfg&oe=676DD197" alt="Biwan's Picture" />
+  <img align="right" height="150" src="./prof.jpg" alt="Biwan's Picture" />
 
   ### 🛠️ Tech Stack
   <br/>
